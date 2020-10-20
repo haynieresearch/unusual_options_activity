@@ -1,6 +1,5 @@
 *.pyc 
 *.csv
-*.txt
 barchart.egg-info
 __pycache__/
 
